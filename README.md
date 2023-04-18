@@ -1,6 +1,6 @@
 # Monitoring Extreme Cloud IQ with Nagios
 
-Nagios check script for monitoring the Extreme Cloud IQ APs.
+Nagios check script or plugin for monitoring the Extreme Cloud IQ APs.
 Written in Python and tested only with Python3.
 
 ### Dependencies
