@@ -10,7 +10,7 @@ Written in Python and tested only with Python3.
 ## Installation
 
 1. `pip3 install requests`
-2. `cd ~/ && git clone https://github.com/navaneethov/Extreme-Cloud-IQ-Nagios.git`
+2. `cd ~/ && git clone https://github.com/navaneethov/extreme-cloud-iq-nagios.git`
 3. `cp ~/Extreme-Cloud-IQ-Nagios/check_extreme_cloud_iq.py /usr/local/nagios/libexec/`
 
 
